@@ -1,6 +1,6 @@
 # インストール方法
 
-1. [https://thedesk.top](thedesk.top)にアクセス
+1. [https://thedesk.top](https://thedesk.top)にアクセス
 1. Downloadを押す   
 ![install1](https://dl.thedesk.top/media/install1.PNG)
 1. あなたの環境に合わせて選択  
