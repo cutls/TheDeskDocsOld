@@ -4,10 +4,9 @@
 ![account1](https://dl.thedesk.top/media/account1.PNG)
 1. 「アカウントを追加」に好きなインスタンスのURLを入力  
 ![account3](https://dl.thedesk.top/media/account3.PNG)  
-__TheDeskTest @ mstdn.jp__ にログインする場合、__mstdn.jp__と入力します。
+__TheDeskTest @ mstdn.jp__ にログインする場合、__mstdn.jp__ と入力します。
   
-#### Pleromaの場合
-__コードセットアップ__にチェックを入れる必要があります
+⚠️Pleromaの場合 __コードセットアップ__ にチェックを入れる必要があります
 
 1. ![account4](https://dl.thedesk.top/media/account4.PNG)    
 「承認」してください。
