@@ -6,10 +6,27 @@
   * [アカウントを追加](account/ADD.md)
   * [タイムラインを表示](timeline/VIEW.md)
   * [トゥートする](post/TOOT.md)
+  * [ブースト/お気に入り登録](timeline/BTFAV.md)
+  * [フォローする](user/FOLLOW.md)
 * 投稿
   * [公開範囲の設定](post/PRIVASY.md)
   * [絵文字を挿入](post/EMOJI.md)
   * [NowPlaying](post/NOWPLAYING.md)
   * [Adobeフォトエディタ](post/ADOBE.md)
-    
-  
+  * [投稿の削除](post/DELETE.md)
+  * [削除して再編集](post/REDRAFT.md)
+* タイムライン
+  * [フィルター](timeline/FILTER.md)
+  * リスト
+    * [リストのタイムラインを表示](timeline/list/VIEW.md)
+    * [リストの新規作成](timeline/list/MAKE.md)
+    * [リストに入っているユーザーを表示](timeline/list/SHOWUSERS.md)
+    * [リストにユーザーを追加する](timeline/list/ADDUSER.md)
+    * [リストからユーザーを削除する](timeline/list/REMOVEUSER.md)
+    * [リストを削除する](timeline/list/DELETE.md)
+  * [返信する](timeline/REPLY.md)
+  * [引用する](timeline/QUOTE.md)
+  * [トゥートをピン留め](timeline/PIN.md)
+  * [エアリプを確認する/このときの話題を確認する](timeline/AIRREPLY.md)
+  * [トゥートの言及元を調べる](timeline/BTCK.md)
+  * [トゥートを翻訳する](timeline/TRANSLATE.md)
