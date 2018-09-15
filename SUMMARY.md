@@ -22,7 +22,7 @@
   * [タイムラインを並べ替え](timeline/sort.md)
   * [TLのヘッダーの色を変える](timeline/tlheader.md)
   * [TL上のトゥートを読み上げる](timeline/tts.md)
-  
+  * [cf)読み上げの設定](settings/tts.md)
   * [自動で更新されないときは\(ストリーミング再接続\)](timeline/reconnect.md)
   * [リスト](timeline/list/README.md)
     * [リストのタイムラインを表示](timeline/list/show.md)
