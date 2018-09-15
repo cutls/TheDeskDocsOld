@@ -30,7 +30,6 @@
     * [リストに入っているユーザーを表示](timeline/list/showuser.md)
     * [cf)リストにユーザーを追加する](user/list.md)
     * [cf)リストからユーザーを削除する](user/listremove.md)
-    * [リストを削除する](timeline/list/deletelist.md)
   * [フィルター](timeline/filter.md)
   * [メディアフィルター](timeline/mediafilter.md)
   * [TL上の全トゥートのリンク解析](timeline/link.md)
