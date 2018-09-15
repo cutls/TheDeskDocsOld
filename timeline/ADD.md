@@ -1,4 +1,4 @@
-# タイムラインを表示
+# タイムラインを追加
 
 1. 画面下部の![timeline2](https://dl.thedesk.top/media/timeline2.PNG)を押します。  
 
