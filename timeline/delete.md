@@ -4,7 +4,7 @@
 
    ![timeline4](https://dl.thedesk.top/media/timeline4.PNG)  
 
-![timeline5](https://dl.thedesk.top/media/timeline5.PNG)を推してください。
+![timeline5](https://dl.thedesk.top/media/timeline5.PNG)を押してください。
 
 1. ダイアログで「はい」を選択してください。  
 
