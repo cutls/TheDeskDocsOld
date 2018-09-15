@@ -16,7 +16,6 @@
   * [投稿の削除](post/DELETE.md)
   * [削除して再編集](post/REDRAFT.md)
 * タイムライン
-  * [フィルター](timeline/FILTER.md)
   * リスト
     * [リストのタイムラインを表示](timeline/list/VIEW.md)
     * [リストの新規作成](timeline/list/MAKE.md)
@@ -26,7 +25,10 @@
     * [リストを削除する](timeline/list/DELETE.md)
   * [返信する](timeline/REPLY.md)
   * [引用する](timeline/QUOTE.md)
+  * [フィルター](timeline/FILTER.md)
   * [トゥートをピン留め](timeline/PIN.md)
   * [エアリプを確認する/このときの話題を確認する](timeline/AIRREPLY.md)
   * [トゥートの言及元を調べる](timeline/BTCK.md)
   * [トゥートを翻訳する](timeline/TRANSLATE.md)
+  * [画面上に小さなサブウィンドウを表示する](timeline/NANO.md)
+  * [他のアカウントから返信する](timeline/REPLY.md)
