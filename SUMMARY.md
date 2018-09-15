@@ -22,6 +22,7 @@
   * [タイムラインを並べ替え](timeline/sort.md)
   * [TLのヘッダーの色を変える](timeline/tlheader.md)
   * [TL上のトゥートを読み上げる](timeline/tts.md)
+  
   * [自動で更新されないときは\(ストリーミング再接続\)](timeline/reconnect.md)
   * [リスト](timeline/list/README.md)
     * [リストのタイムラインを表示](timeline/list/show.md)
@@ -107,7 +108,7 @@
   * [キーボードショートカットの設定](she-ding/kbdoshtokattono.md)
   * [SpotifyとNowPlayingの設定](she-ding/spotifytonowplayingno.md)
   * [読み上げの設定](she-ding/migeno/README.md)
-    * [ミュート・強調](she-ding/migeno/myto.md)
+* [ミュート・強調](she-ding/migeno/myto.md)
   * [ユーザーの強調](she-ding/yzno.md)
   * [cf\)ユーザーのミュート](she-ding/cfyznomyto.md)
   * [クライアントの強調](she-ding/kuraiantono.md)
