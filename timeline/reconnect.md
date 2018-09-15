@@ -12,5 +12,5 @@ TheDeskはストリーミングが切れた際に自動復旧機能を持って�
 1. カラム上部  
 ![timeline4](https://dl.thedesk.top/media/timeline4.PNG)  
 ![timeline8](https://dl.thedesk.top/media/timeline8.PNG)を押してください。
-1. ![timeline13](https://dl.thedesk.top/media/timeline4.PNG)  
+1. ![timeline13](https://dl.thedesk.top/media/timeline13.PNG)  
 を押してください。
