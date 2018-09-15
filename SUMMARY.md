@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TheDeskへようこそ](README.md)
-* [インストールする](insutrusuru.md)
+* [インストールする](install.md)
 * [基本的な使い方](basic/README.md)
   * [cf\)アカウントを追加](basic/add.md)
   * [cf\)タイムラインを表示](basic/view.md)
