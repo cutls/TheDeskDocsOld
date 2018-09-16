@@ -1,4 +1,0 @@
-# SpotifyとNowPlayingの設定
-
-
-
