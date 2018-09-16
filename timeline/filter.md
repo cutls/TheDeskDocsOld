@@ -1,5 +1,9 @@
 # フィルター
 
+## 注意
+フィルターに該当したトゥートは、TheDeskでは全て非表示になります。公式のように「フィルターされました」とはなりませんのでご注意ください。  
+ただし、リプライ先など一部状況では「フィルターされました」がひょうじされます。
+
 1. 画面下部![timeline18](https://dl.thedesk.top/media/timeline18.PNG)を押してください。
 2. ![timeline19](https://dl.thedesk.top/media/timeline19.PNG)
 
