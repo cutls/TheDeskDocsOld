@@ -150,5 +150,5 @@
   * [リアルタイムユーザー数](tool/rtuser.md)
   * [Spotifyの情報を出しておく](tool/spotify.md)
   * [時計を出しておく](tool/clock.md)
-  * [RAM使用量を出しておく](tool/clock.md)
+  * [RAM使用量を出しておく](tool/ram.md)
   
