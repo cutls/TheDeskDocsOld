@@ -1,6 +1,6 @@
 #実況する
 
-1. ![toottl22](https://dl.thedesk.top/media/toottl22.PNG)  
+1. ![toot22](https://dl.thedesk.top/media/toot22.PNG)  
 トゥートボックス下部のMy Tagsから対象のタグを選択。  
 「実況」を押す。
 
