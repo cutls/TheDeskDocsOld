@@ -1,8 +1,8 @@
 # アクションメニューを非表示
 * 標準  
 ![toottl1](https://dl.thedesk.top/media/toottl1.PNG)
-* 変更した場合(マウスオーバー/クリック)
-![settings5](https://dl.thedesk.top/media/settings5.PNG)  
+* 変更した場合(マウスオーバー/クリック)  
+![settings5](https://dl.thedesk.top/media/settings5.PNG)   
 このように下のボタンが隠れます。マウスオーバーまたはクリックで表示されます。  
 トゥートのどこを押しても隠れるので、お気に入り登録等を押したときも一緒に隠れます。  
   
