@@ -129,7 +129,7 @@
   * [クライアントのミュート](mute/climute.md)
   * [ワードの強調](mute/wordemp.md)
   * [ワードのミュート\(非推奨\)](mute/wordmute.md)
-  * [cf\)フィルター](https://docs.thedesk.top/user/his-or-her-prof/filter)
+  * [cf\)フィルター](https://docs.thedesk.top/timeline/filter)
 * 便利な機能
   * [トゥート欄入れ替え](tool/reverse.md)
   * [cf)NowPlayingする](https://docs.thedesk.top/post/nowplaying)
