@@ -1,5 +1,5 @@
 # 非表示設定の画像\(NSFW\)を隠す
-⚠️「はい」を強く推奨します。
+⚠️「はい」を強く推奨します。  
 オンのとき  
 ![settings3](https://dl.thedesk.top/media/settings3.PNG)  
 オフのとき  
