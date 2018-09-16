@@ -1,11 +1,11 @@
 # インストールする
 
 1. [https://thedesk.top](https://thedesk.top)にアクセス
-2. Downloadを押す   
+2. Downloadを押す
 
    ![install1](https://dl.thedesk.top/media/install1.PNG)
 
-3. あなたの環境に合わせて選択  
+3. あなたの環境に合わせて選択
 
    ![install2](https://dl.thedesk.top/media/install2.PNG)
 
