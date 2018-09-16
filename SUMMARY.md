@@ -76,6 +76,7 @@
     * [プロフィールの編集](user/myprof/purofuruno.md)
     * [フォローリクエストを許可する](user/myprof/furrikuesutowosuru.md)
     * [フォロー推奨リストを表示する](user/myprof/furrisutowosuru.md)
+  *  [1つ前のユーザーデータ](user/back.md)
 * [アカウント](akaunto/README.md)
   * [アカウントの追加\(Mastodon\)](akaunto/akauntonomastodon.md)
   * [Misskeyアカウントの追加](akaunto/misskeyakauntono.md)
