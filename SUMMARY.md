@@ -19,7 +19,7 @@
   * [よく使うタグ](post/tag.md)
   * [実況する](post/tagstr.md)
   * [cf\)トゥートをピン留め](https://docs.thedesk.top/toot-on-tl/pin)
-  * [cf\)セカンダリートゥートボタン](https://docs.thedesk.top/settings/post/secondary)
+  * [cf\)セカンダリートゥートボタン](https://docs.thedesk.top/settings/post/secondary) 
 * [タイムライン](timeline/README.md)
   * [タイムラインを追加](timeline/add.md)
   * [タイムラインを削除](timeline/delete.md)
