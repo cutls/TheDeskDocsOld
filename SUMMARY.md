@@ -58,7 +58,6 @@
   * [cf\)トゥート時刻のスタイル](https://docs.thedesk.top/settings/timeline/format)
   * [cf\)投稿の削除](https://docs.thedesk.top/post/delete)
   * [cf\)削除して再編集](https://docs.thedesk.top/post/redraft)
-  * [cf\)トゥートをピン留め](https://docs.thedesk.top/post/pin)
 * [ユーザー情報](user/README.md)
   * [ユーザー情報を表示する](user/show.md)
   * [自分のプロフィールを表示する](user/myprof.md)
