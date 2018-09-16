@@ -1,6 +1,10 @@
 # 絵文字を挿入
 
-1. 投稿画面下部の ![toot3](https://dl.thedesk.top/media/toot3.PNG) ![toot7](https://dl.thedesk.top/media/toot7.PNG) ![toot14](https://dl.thedesk.top/media/toot14.PNG)を押してください。
+1. 投稿画面下部の  
+![toot3](https://dl.thedesk.top/media/toot3.PNG)  
+![toot7](https://dl.thedesk.top/media/toot7.PNG)  
+![toot14](https://dl.thedesk.top/media/toot14.PNG)  
+を押してください。
 2. 初めて使う場合、 ![toot17](https://dl.thedesk.top/media/toot17.PNG) と出るので絵文字リストを取得してください。
 
 ## カスタム絵文字
