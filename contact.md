@@ -6,4 +6,4 @@
 * [GitHub Issues](https://github.com/cutls/TheDesk)
 
 ## 要望など
-* #Desk をつけてトゥート
+* \#Desk をつけてトゥート
