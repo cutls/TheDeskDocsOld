@@ -6,7 +6,7 @@
   * [アカウントを追加](basic/add.md)
   * [タイムラインを表示](basic/view.md)
   * [トゥートする](basic/toot.md)
-  * [ブースト/お気に入り登録](basic/cfbsutooniri.md)
+  * [ブースト/お気に入り登録](basic/btfav.md)
   * [cf)フォローする](https://docs.thedesk.top/user/his-or-her-prof/follow)
 * [投稿](post/README.md)
   * [公開範囲の設定](post/privacy.md)
