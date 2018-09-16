@@ -38,7 +38,7 @@
   * [TL上の全トゥートのリンク解析](timeline/link.md)
   * [TLの一番上までスクロール](timeline/top.md)
   * [画面上に小さなサブウィンドウを表示する](timeline/nano.md)
-  * [認証していないアカウントのタイムラインを見る](timeline/glance.md)
+  * [認証していないインスタンスのタイムラインを見る](timeline/glance.md)
 * [タイムライン上のトゥート](toot-on-tl/README.md)
   * [返信する](toot-on-tl/reply.md)
   * [引用する](toot-on-tl/quote.md)
