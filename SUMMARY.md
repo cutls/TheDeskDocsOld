@@ -115,7 +115,7 @@
     * [画像投稿設定](settings/post/img.md)
     * [投稿ボックスの挙動](settings/post/postbox.md)
     * [引用形式](settings/post/quote.md)
-    * [起動後や起動時のアカウント](settings/post/main.md)
+    * [投稿後や起動時のアカウント](settings/post/main.md)
   * [キーボードショートカットの設定](settings/kbdoshtokattono.md)
   * [SpotifyとNowPlayingの設定](settings/spotifytonowplayingno.md)
   * [読み上げの設定](settings/migeno.md)
