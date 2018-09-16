@@ -10,6 +10,7 @@
   * [cf)フォローする](https://docs.thedesk.top/user/his-or-her-prof/follow)
 * [投稿](post/README.md)
   * [公開範囲の設定](post/privacy.md)
+  * [画像を添付](post/img.md)
   * [絵文字を挿入](post/emoji.md)
   * [NowPlaying](post/nowplaying.md)
   * [Adobeフォトエディタ](post/adobe.md)
