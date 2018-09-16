@@ -4,7 +4,7 @@
 SpotifyのNowPlayingのためにはアカウント連携が必要です。  
 [SpotifyとNowPlayingの設定](https://docs.thedesk.top/settings/spotify)  
 iTunesのNowPlayingにはmacOSが必要です。  
-Cinderella NowPlayingを使用するためにはimastodon.netでログインしている必要があります。
+Cinderella NowPlayingを使用するためにはimastodon.netでログインしている必要があります。ログインしていれば他のアカウントでも利用できます。
 
 ## Spotify
 1. 投稿画面下部の  
