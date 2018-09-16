@@ -18,7 +18,7 @@
   * [削除して再編集](post/redraft.md)
   * [よく使うタグ](post/tag.md)
   * [実況する](post/tagstr.md)
-  * [cf\)トゥートをピン留め](https://docs.thedesk.top/toot-on-tl/pin.md)
+  * [cf\)トゥートをピン留め](https://docs.thedesk.top/toot-on-tl/pin)
 * [タイムライン](timeline/README.md)
   * [タイムラインを追加](timeline/add.md)
   * [タイムラインを削除](timeline/delete.md)
