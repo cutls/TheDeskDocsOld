@@ -116,7 +116,7 @@
     * [投稿ボックスの挙動](settings/post/postbox.md)
     * [引用形式](settings/post/quote.md)
     * [投稿後や起動時のアカウント](settings/post/main.md)
-  * [キーボードショートカットの設定](settings/kbdoshtokattono.md)
+  * [キーボードショートカットの設定](settings/ksc.md)
   * [SpotifyとNowPlayingの設定](settings/spotifytonowplayingno.md)
   * [読み上げの設定](settings/migeno.md)
 * [ミュート・強調](mute/README.md)
