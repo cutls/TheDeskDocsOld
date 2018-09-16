@@ -1,6 +1,8 @@
 # 引用する
 
-1. トゥート下部の ![toottl1](https://dl.thedesk.top/media/toottl1.PNG) ![toottl3](https://dl.thedesk.top/media/toottl3.PNG)を押します。
+1. トゥート下部の  
+![toottl1](https://dl.thedesk.top/media/toottl1.PNG)  
+![toottl4](https://dl.thedesk.top/media/toottl4.PNG)を押します。
 2. 投稿ボックスが開きます。
 
 ## 引用形式
