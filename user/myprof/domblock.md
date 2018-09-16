@@ -7,4 +7,4 @@
 ![user9](https://dl.thedesk.top/media/user9.PNG)を選択します。  
 　　
   
-[Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)]
+> [Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)]
