@@ -1,6 +1,9 @@
 # TheDeskへようこそ
 
-TheDeskはオープンソースマストドンクライアントです。  
+TheDeskはオープンソースのマストドンクライアントです。  
+PC(Windows/Linux/macOS)で動作します。Windows版はMicrosoft Storeからもダウンロード可能です。  
+ダウンロードはこちら: [TheDesk](https://thedesk.top)  
+  
 GitBookはクセが強いし重いので自分で作りました。GitHubの内容がリアルタイムで反映されます。  
 Markdownパーサーとメニュー部はライブラリ使いました。  
 
