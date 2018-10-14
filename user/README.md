@@ -1,4 +1,21 @@
-# ユーザー情報
-
-
-
+* [ユーザー情報を表示する](user/show.md)
+* [自分のプロフィールを表示する](user/myprof.md)
+* [ユーザーのトゥート一覧](user/usertl.md)
+* [ユーザーのフォロー/フォロワー](user/flw.md)
+* [ユーザー情報のみ有効](user/his-or-her-prof/README.md)
+  * [フォローする](user/his-or-her-prof/follow.md)
+  * [ミュートする](user/his-or-her-prof/mute.md)
+  * [ブロックする](user/his-or-her-prof/block.md)
+  * [他のアカウントで操作](user/his-or-her-prof/operation.md)
+  * [リストに追加](user/his-or-her-prof/list.md)
+  * [リストから削除](user/his-or-her-prof/listremove.md)
+  * [紹介する](user/his-or-her-prof/endorse.md)
+  * [cf\)ユーザー強調](https://docs.thedesk.top/mute/useremp)
+* [自分のプロフィールのみ有効](user/myprof-1/README.md)
+  * [お気に入り一覧を見る](user/myprof-1/fav.md)
+  * [ミュート/ブロック一覧を見る](user/myprof-1/mute.md)
+  * [ドメインブロックリストを見る](user/myprof-1/domblock.md)
+  * [プロフィールの編集](user/myprof-1/profedit.md)
+  * [フォローリクエストを許可する](user/myprof-1/auth.md)
+  * [フォロー推奨リストを表示する](user/myprof-1/frc.md)
+* [1つ前のユーザーデータ](user/back.md)
