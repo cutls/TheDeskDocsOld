@@ -1,4 +1,4 @@
-* [TheDeskへようこそ](README.md)
+* [HOME](README.md)
 * [インストールする](install.md)
 * [基本的な使い方](basic/README.md)
 * [タイムライン](timeline/README.md)
