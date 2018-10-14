@@ -1,4 +1,18 @@
-# タイムライン上のトゥート
-
-
-
+* [返信する](toot-on-tl/reply.md)
+* [引用する](toot-on-tl/quote.md)
+* [トゥートをピン留め](toot-on-tl/pin.md)
+* [このトゥートのリプライ元/先を確認](toot-on-tl/replyck.md)
+* [エアリプを確認する/このときの話題を確認する](toot-on-tl/airreply.md)
+* [トゥートの言及元を調べる](toot-on-tl/btck.md)
+* [トゥートを翻訳する](toot-on-tl/translate.md)
+* [他のアカウントから返信する](toot-on-tl/otacctopereply.md)
+* [他のアカウントからBT/お気に入り登録する](toot-on-tl/otacctope.md)
+* [トゥートをブラウザから開く](toot-on-tl/openinbrowser.md)
+* [トゥートのURLをコピー](toot-on-tl/copyurl.md)
+* [トゥートの埋め込みをコピー](toot-on-tl/copyemb.md)
+* [トゥートの本文をコピー](toot-on-tl/copytxt.md)
+* [トゥートのリンクを解析](toot-on-tl/link.md)
+* [トゥートのリンクの動画をオーバーレイ表示](toot-on-tl/pip.md)
+* [cf\)トゥート時刻のスタイル](https://docs.thedesk.top/settings/timeline/format)
+* [cf\)投稿の削除](https://docs.thedesk.top/post/delete)
+* [cf\)削除して再編集](https://docs.thedesk.top/post/redraft)
