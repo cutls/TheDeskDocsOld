@@ -1,4 +1,11 @@
-# 投稿
-
-
-
+* [公開範囲の設定](post/privacy.md)
+* [画像を添付](post/img.md)
+* [絵文字を挿入](post/emoji.md)
+* [NowPlaying](post/nowplaying.md)
+* [Adobeフォトエディタ](post/adobe.md)
+* [投稿の削除](post/delete.md)
+* [削除して再編集](post/redraft.md)
+* [よく使うタグ](post/tag.md)
+* [実況する](post/tagstr.md)
+* [cf\)トゥートをピン留め](https://docs.thedesk.top/toot-on-tl/pin)
+* [cf\)セカンダリートゥートボタン](https://docs.thedesk.top/settings/post/secondary) 
