@@ -21,7 +21,7 @@
   * [通知を開いているとき、通知新着お知らせを表示する](settings/timeline/notif.md)
   * [指定行数以上を折りたたむ](settings/timeline/autofold.md)
   * [画像の高さ](settings/timeline/height.md)
-  * [#InstanceTicker](settings/timeline/ticker.md)
+  * [#InstanceTickerを使う](settings/timeline/ticker.md)
 * [投稿設定](settings/post/README.md)
   * [CWの設定\(デフォルトの警告文/標準でCWを設定](settings/post/cw.md)
   * [長文投稿時に警告](settings/post/autofold.md)
