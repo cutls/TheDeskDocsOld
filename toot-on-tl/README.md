@@ -16,3 +16,4 @@
 * [cf\)トゥート時刻のスタイル](https://docs.thedesk.top/settings/timeline/format)
 * [cf\)投稿の削除](https://docs.thedesk.top/post/delete)
 * [cf\)削除して再編集](https://docs.thedesk.top/post/redraft)
+* [cf\)#InstanceTickerを使う](settings/timeline/ticker.md)
