@@ -11,4 +11,8 @@ Markdownパーサーとメニュー部はライブラリ使いました。
 ページ下部の **Edit on GitHub** を押して誰でも編集に参加することができます。  
   
 cf)は「参照」を示し、このガイド内の別ページにジャンプします。
+
+## Translation
+
+If you can contribute to translate this document from Japanese to other languages, you make a new branch of GitHub and pull it to TheDeskDocs.
 　
