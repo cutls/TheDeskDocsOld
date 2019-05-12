@@ -1,5 +1,8 @@
 # 引用する
 
+[引用形式](https://docs.thedesk.top/post/quote)の設定が必要です。  
+デフォルトでは表示されません。  
+
 1. トゥート下部の  
 
    ![toottl1](https://dl.thedesk.top/media/toottl1.PNG)  

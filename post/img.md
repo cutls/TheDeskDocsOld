@@ -1,4 +1,4 @@
-# 絵文字を挿入
+# 画像を挿入
 
 1. 投稿画面下部の  
 ![toot3](https://dl.thedesk.top/media/toot3.PNG)  

@@ -1,4 +1,4 @@
-# SpotifyとNowPlayingの設定
+# SpotifyとNowPlayingの設定(Spotify)
 
 ## Spotifyアカウントとの連携
 
@@ -19,8 +19,7 @@
 `https://open.spotify.com/track/1GOFmfWEXFnOG52PhnIuJG`  
 と入力されます。
 
-## Spotifyでアルバムワークを添付する
-iTunesでは添付できません。  
+## アルバムワークを添付する
 1. ![settings1](https://dl.thedesk.top/media/settings1.PNG)を選択。
 1. ![settings2](https://dl.thedesk.top/media/settings2.PNG)から __SpotifyとNowPlayingの設定__ を選択。
-1.  __Spotifyでアルバムワークを添付する__ 値を変更します。クリックすると更新・保存されます。
+1.  __アルバムワークを添付する__ 値を変更します。クリックすると更新・保存されます。
