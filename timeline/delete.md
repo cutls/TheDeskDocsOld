@@ -8,5 +8,5 @@
 
 1. ダイアログで「はい」を選択してください。
 
-   忠告にもある通り、[リンク解析](https://docs.thedesk.top/timeline/link)や[メディアフィルター](https://docs.thedesk.top/timeline/mediafilter)の設定が全てオフになります。
+   忠告にもある通り、[メディアフィルター](https://docs.thedesk.top/timeline/mediafilter)の設定が全てオフになります。
 

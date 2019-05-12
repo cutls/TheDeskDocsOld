@@ -1,6 +1,6 @@
 # タイムラインを追加
 
-1. 画面下部の![timeline2](https://dl.thedesk.top/media/timeline2.PNG)を押します。
+1. 画面下部![toot13](https://dl.thedesk.top/media/toot13.PNG)より「カラム追加」を選んでください。
 
    ![timeline1](https://dl.thedesk.top/media/timeline1.PNG)
 
