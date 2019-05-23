@@ -6,4 +6,4 @@
 2. ![user1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user1.png)
 3. 左側の、「ユーザー強調」を押してください。  
 
-   すでに紹介済みの場合はもう一度押すことで解除できます。
+   すでに強調済みの場合はもう一度押すことで解除できます。

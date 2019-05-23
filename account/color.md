@@ -12,8 +12,8 @@
 
 1. ![account2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account2.png)を選択。
 1. アカウントの  
-![account8](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account8.png)の  
-__アカウントカラーを選択__ から好きな色を選びます。
+![account8](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account8.png)  
+の  __アカウントカラーを選択__ から好きな色を選びます。
 1. 変更されました。  
 ![account9](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account9.png)
 

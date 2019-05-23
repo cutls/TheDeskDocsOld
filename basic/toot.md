@@ -8,7 +8,8 @@
 
    トゥートボックスは画面の左端に持ってくる事ができます。詳しくは[トゥートボックスの左右入れ替え](https://docs.thedesk.top/tool/reverse.md)を参照。
 
-2. ![toot3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot3.png)
+2. 投稿ボックス  
+![toot3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot3.png)
    * ![toot4](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot4.png)
 
      現在選択されているアカウントのアイコンです。クリックしてこのアイコンのプロフィールを表示します。
