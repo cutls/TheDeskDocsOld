@@ -1,14 +1,14 @@
 # フォローする
 
 1. フォローしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
-2. ![user1](https://dl.thedesk.top/media/user1.PNG)
+2. ![user1](/media/user1.png)
 3. 画面下部  
 
-   ![user19](https://dl.thedesk.top/media/user19.PNG)  
+   ![user19](/media/user19.png)  
 
    の、  
 
-   ![user19](https://dl.thedesk.top/media/user21.PNG) 
+   ![user19](/media/user21.png) 
 
    を押してください。  
 

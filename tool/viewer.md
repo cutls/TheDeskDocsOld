@@ -1,10 +1,10 @@
 # 画像ビューアを使いこなす
 
 画像をクリックすると、  
-![tool2](https://dl.thedesk.top/media/tool2.PNG)  
+![tool2](/media/tool2.png)  
 ビューワーが表示されます。  
   
-![tool3](https://dl.thedesk.top/media/tool3.PNG)  
+![tool3](/media/tool3.png)  
 左から順に  
 * DL進捗
 * 画像拡大縮小( __マウスホイールでも可能です！__ )

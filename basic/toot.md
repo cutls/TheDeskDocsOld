@@ -1,6 +1,6 @@
 # cf\)トゥートする
 
-1. ![toot1](https://dl.thedesk.top/media/toot1.PNG)
+1. ![toot1](/media/toot1.png)
 
    これをクリックするとトゥートボックスが表示されます。
 
@@ -8,20 +8,20 @@
 
    トゥートボックスは画面の左端に持ってくる事ができます。詳しくは[トゥートボックスの左右入れ替え](https://docs.thedesk.top/tool/reverse.md)を参照。
 
-2. ![toot3](https://dl.thedesk.top/media/toot3.PNG)
-   * ![toot4](https://dl.thedesk.top/media/toot4.PNG)
+2. ![toot3](/media/toot3.png)
+   * ![toot4](/media/toot4.png)
 
      現在選択されているアカウントのアイコンです。クリックしてこのアイコンのプロフィールを表示します。
 
-   * ![toot5](https://dl.thedesk.top/media/toot5.PNG)
+   * ![toot5](/media/toot5.png)
 
      トゥートするアカウントです。クリックして切り替えられます。
 
-   * ![toot6](https://dl.thedesk.top/media/toot6.PNG)
+   * ![toot6](/media/toot6.png)
 
      ここに内容を入力します。右下は文字数カウントです。
 
-   * ![toot7](https://dl.thedesk.top/media/toot7.PNG)
+   * ![toot7](/media/toot7.png)
 
      左から順番に
 
@@ -30,7 +30,7 @@
      * CW\(コンテントワーニング\)
        * クリックして警告文を入力してください。
 
-         ![toot8](https://dl.thedesk.top/media/toot8.PNG)
+         ![toot8](/media/toot8.png)
 
        * 常に表示させておくことができます。詳しくは[デフォルトの警告文/標準でCWを設定](https://docs.thedesk.top/settings/post/cw)を参照
        * 文章を常に固定しておくことができます。詳しくは[デフォルトの警告文/標準でCWを設定](https://docs.thedesk.top/settings/post/cw)を参照 

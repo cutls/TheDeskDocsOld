@@ -2,11 +2,11 @@
 
 1. カラム上部  
 
-   ![timeline4](https://dl.thedesk.top/media/timeline4.PNG)  
+   ![timeline4](/media/timeline4.png)  
 
    の、  
 
-   ![timeline22](https://dl.thedesk.top/media/timeline22.PNG)  
+   ![timeline22](/media/timeline22.png)  
 
    を押してください。  
 

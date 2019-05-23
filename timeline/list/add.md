@@ -1,7 +1,7 @@
 # リストの新規作成
 
-1. 画面下部![toot13](https://dl.thedesk.top/media/toot13.PNG)より「リスト」を選んでください。
-2. ![timeline15](https://dl.thedesk.top/media/timeline15.PNG)  
+1. 画面下部![toot13](/media/toot13.png)より「リスト」を選んでください。
+2. ![timeline15](/media/timeline15.png)  
 
    アカウントを選んで **名前** 欄にリストの名前を入力してください。
 

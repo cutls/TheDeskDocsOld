@@ -1,18 +1,18 @@
 # 絵文字を挿入
 
 1. 投稿画面下部の  
-![toot3](https://dl.thedesk.top/media/toot3.PNG)  
-![toot7](https://dl.thedesk.top/media/toot7.PNG)  
-![toot14](https://dl.thedesk.top/media/toot14.PNG)  
+![toot3](/media/toot3.png)  
+![toot7](/media/toot7.png)  
+![toot14](/media/toot14.png)  
 を押してください。
 2. 初めて使う場合、  
-![toot17](https://dl.thedesk.top/media/toot17.PNG)  
+![toot17](/media/toot17.png)  
 と出るので絵文字リストを取得してください。
 
 ## カスタム絵文字
 
 \(カスタム絵文字が表示されていない場合は下の **+** を押してください。\)  
-![toot18](https://dl.thedesk.top/media/toot18.PNG)  
+![toot18](/media/toot18.png)  
 下の **&lt;** **&gt;** でページングできます。  
 絵文字が更新された場合は上の **絵文字更新** を使用してください。
 
@@ -23,5 +23,5 @@
 ## Note
 
 トゥートボックスで「:」を入れてから文字\(英数文字\)を入れると、その場で絵文字のサジェストが得られます。  
-![toot19](https://dl.thedesk.top/media/toot19.PNG)
+![toot19](/media/toot19.png)
 

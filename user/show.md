@@ -1,7 +1,7 @@
 # ユーザー情報を表示する
 
 1. 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
-2. ![user1](https://dl.thedesk.top/media/user1.PNG)
+2. ![user1](/media/user1.png)
 
 ## Note
 

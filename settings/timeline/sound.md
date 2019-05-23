@@ -3,8 +3,8 @@
 「リプライ」「お気に入り」「ブースト」「フォロー」について個別に通知音を設定できます。  
 「規定」
   
-1. ![settings1](https://dl.thedesk.top/media/settings1.PNG)を選択。
-1. ![settings2](https://dl.thedesk.top/media/settings2.PNG)  
+1. ![settings1](/media/settings1.png)を選択。
+1. ![settings2](/media/settings2.png)  
 から __タイムラインの設定__ を選択。
 1. 各々の値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。
 

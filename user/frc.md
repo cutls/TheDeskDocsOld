@@ -4,5 +4,5 @@
 マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
-1.  上の![user2](https://dl.thedesk.top/media/user2.PNG)の中から、  
-![user13](https://dl.thedesk.top/media/user13.PNG)を選択します。  
+1.  上の![user2](/media/user2.png)の中から、  
+![user13](/media/user13.png)を選択します。  
