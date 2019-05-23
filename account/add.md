@@ -16,11 +16,12 @@ Mastodonの場合
 「承認」してください。
 PleromaやMisskeyだと画面が異なります。
 
-**以下MastodonやPleromaのみ**
+**以下MastodonやPleromaのみ**  
 ![account5](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account5.png)  
 コードをコピーして、  
 ![account6](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account6.png)  
 にペーストして「Auth」を押してください。
 
-**以下Misskeyのみ**
-Misskeyの場合、ログイン後はTheDeskに戻って「Auth」を押してください。
+**以下Misskeyのみ**  
+Misskeyの場合、ログイン後はTheDeskに戻って「Auth」を押してください。  
+すでにコードが入力されています。

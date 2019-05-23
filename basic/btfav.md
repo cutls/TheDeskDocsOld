@@ -1,7 +1,7 @@
 # ブースト・お気に入り登録する
 
 
-1.  ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  
+ ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  
 トゥート下部の
 
 ブースト: ![toottl3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl3.png)  
