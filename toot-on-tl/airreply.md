@@ -5,9 +5,9 @@
 もちろん、そのトゥートがホームに対するエアリプかもしれないので、必ずチェックできるわけではないです。
 
 1. トゥート下部の  
-![toottl1](/media/toottl1.png)  
-![toottl6](/media/toottl6.png)を押します。
-2. ![toottl11](/media/toottl11.png)  
+![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  
+![toottl6](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl6.png)を押します。
+2. ![toottl11](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl11.png)  
 **これより前のLocal TL\(エアリプソース確認\)** を押します。
 3. トゥートされたアカウントのインスタンスのローカルタイムラインが表示されます。
 

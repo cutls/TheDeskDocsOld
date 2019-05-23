@@ -1,7 +1,7 @@
 # 返信する
 
-1. トゥート下部の ![toottl1](/media/toottl1.png)  
-![toottl2](/media/toottl2.png)を押します。
+1. トゥート下部の ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  
+![toottl2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl2.png)を押します。
 2. 投稿ボックスが開きます。
 
 ## 注意

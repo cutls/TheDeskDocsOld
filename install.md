@@ -3,11 +3,11 @@
 1. [https://thedesk.top](https://thedesk.top)にアクセス
 2. Downloadを押す
 
-   ![install1](/media/install1.png)
+   ![install1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/install1.png)
 
 3. あなたの環境に合わせて選択
 
-   ![install2](/media/install2.png)
+   ![install2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/install2.png)
 
 ## Windowsの場合
 
@@ -15,11 +15,11 @@
 
 ### Edge/IE
 
-実行を選べば起動します。 ![install3](/media/install3.png)
+実行を選べば起動します。 ![install3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/install3.png)
 
 ### Chrome
 
-アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。 ![install4](/media/install4.png)
+アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。 ![install4](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/install4.png)
 
 ## Linuxの場合
 

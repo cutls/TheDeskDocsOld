@@ -2,11 +2,11 @@
 
 1. トゥート下部の  
 
-   ![toottl14](/media/toottl14.png)  
+   ![toottl14](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl14.png)  
 
-   ![toottl15](/media/toottl15.png)を押します。
+   ![toottl15](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl15.png)を押します。
 
-2. ![toottl18](/media/toottl18.png)を押します。
+2. ![toottl18](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl18.png)を押します。
 
 ## Note
 

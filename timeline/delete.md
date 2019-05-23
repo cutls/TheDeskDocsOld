@@ -2,9 +2,9 @@
 
 1. カラム上部の右上
 
-   ![timeline4](/media/timeline4.png)
+   ![timeline4](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline4.png)
 
-![timeline5](/media/timeline5.png)を押してください。
+![timeline5](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline5.png)を押してください。
 
 1. ダイアログで「はい」を選択してください。
 

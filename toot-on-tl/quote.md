@@ -5,9 +5,9 @@
 
 1. トゥート下部の  
 
-   ![toottl1](/media/toottl1.png)  
+   ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  
 
-   ![toottl4](/media/toottl4.png)を押します。
+   ![toottl4](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl4.png)を押します。
 
 2. 投稿ボックスが開きます。
 

@@ -2,7 +2,7 @@
 マストドン2.5.0からそのトゥートへのリプライ数が表示されるようになりました。  
 リプライ数はトゥートの人気度を測るバロメーターではありません。よって、2件以上のリプライがあっても一律1+と表示する設定を採用しています。  
 
-1. ![settings1](/media/settings1.png)を選択。
-1. ![settings2](/media/settings2.png)から __タイムラインの設定__ を選択。
+1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __タイムラインの設定__ を選択。
 1.  __リプライ数表示__ 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。
 
