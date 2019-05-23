@@ -1,17 +1,17 @@
 # ミュート/ブロック一覧を見る
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
-2. 上の![user2](https://dl.thedesk.top/media/user2.PNG)の中から、  
+2. 上の![user2](/media/user2.png)の中から、  
 
    ブロックは  
 
-   ![user7](https://dl.thedesk.top/media/user7.PNG)  
+   ![user7](/media/user7.png)  
 
    を、  
 
    ミュートは  
 
-   ![user8](https://dl.thedesk.top/media/user8.PNG)  
+   ![user8](/media/user8.png)  
 
    を、  
 

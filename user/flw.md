@@ -1,12 +1,12 @@
 # ユーザーのフォロー/フォロワー
 
 1. 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
-2. ![user1](https://dl.thedesk.top/media/user1.PNG)
+2. ![user1](/media/user1.png)
 3. **フォローの場合**  
 
-   ![user4](https://dl.thedesk.top/media/user4.PNG)を押してください。  
+   ![user4](/media/user4.png)を押してください。  
 
    **フォロワーの場合**  
 
-   ![user5](https://dl.thedesk.top/media/user5.PNG)を押してください。  
+   ![user5](/media/user5.png)を押してください。  
 

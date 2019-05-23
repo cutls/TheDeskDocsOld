@@ -1,13 +1,13 @@
 # タイムラインを追加
 
-1. 画面下部![toot13](https://dl.thedesk.top/media/toot13.PNG)より「カラム追加」を選んでください。
+1. 画面下部![toot13](/media/toot13.png)より「カラム追加」を選んでください。
 
-   ![timeline1](https://dl.thedesk.top/media/timeline1.PNG)
+   ![timeline1](/media/timeline1.png)
 
 2. 「アカウントを選択」で表示させたいアカウントを選択します。
 3. 「表示するタイムライン」を選択します。
 
-   ![timeline3](https://dl.thedesk.top/media/timeline3.PNG)
+   ![timeline3](/media/timeline3.png)
 
 4. ローカル
 

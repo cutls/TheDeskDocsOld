@@ -2,9 +2,9 @@
 
 1. カラム上部の右上
 
-   ![timeline4](https://dl.thedesk.top/media/timeline4.PNG)
+   ![timeline4](/media/timeline4.png)
 
-![timeline5](https://dl.thedesk.top/media/timeline5.PNG)を押してください。
+![timeline5](/media/timeline5.png)を押してください。
 
 1. ダイアログで「はい」を選択してください。
 

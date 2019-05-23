@@ -1,8 +1,8 @@
 # 設定のインポート
 ⚠️全てのデータが削除されます。
 
-1. ![settings1](https://dl.thedesk.top/media/settings1.PNG)を選択。
-1. ![settings2](https://dl.thedesk.top/media/settings2.PNG)から __環境設定__ を選択。
+1. ![settings1](/media/settings1.png)を選択。
+1. ![settings2](/media/settings2.png)から __環境設定__ を選択。
 1. __インポート__ を選びます。
 1. 読み込むファイルを指定します。
   

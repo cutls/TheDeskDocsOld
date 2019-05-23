@@ -1,8 +1,8 @@
 # ブースト・お気に入り登録する
 
 
-1.  ![toottl1](https://dl.thedesk.top/media/toottl1.PNG)  
+1.  ![toottl1](/media/toottl1.png)  
 トゥート下部の
 
-ブースト: ![toottl3](https://dl.thedesk.top/media/toottl3.PNG)  
-お気に入り登録:![toottl5](https://dl.thedesk.top/media/toottl5.PNG)を押します。
+ブースト: ![toottl3](/media/toottl3.png)  
+お気に入り登録:![toottl5](/media/toottl5.png)を押します。

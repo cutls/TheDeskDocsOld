@@ -1,8 +1,8 @@
 # アカウントの削除
 
-1. ![account2](https://dl.thedesk.top/media/account2.PNG)を選択。
+1. ![account2](/media/account2.png)を選択。
 1. 消したいアカウントの  
-![account8](https://dl.thedesk.top/media/account8.PNG)の  
+![account8](/media/account8.png)の  
 __削除__ を押す。
 
 確認ダイアログが出ます。

@@ -2,7 +2,7 @@
 
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
-1.  上の![user2](https://dl.thedesk.top/media/user2.PNG)の中から、  
-![user12](https://dl.thedesk.top/media/user12.PNG)を選択します。 
+1.  上の![user2](/media/user2.png)の中から、  
+![user12](/media/user12.png)を選択します。 
 　　
   

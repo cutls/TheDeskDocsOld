@@ -4,11 +4,11 @@
 
 1. 画面下部  
 
-   ![user19](https://dl.thedesk.top/media/user19.PNG)  
+   ![user19](/media/user19.png)  
 
    の、  
 
-   ![user20](https://dl.thedesk.top/media/user20.PNG) 
+   ![user20](/media/user20.png) 
 
    を押してください。  
 

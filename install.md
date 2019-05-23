@@ -3,11 +3,11 @@
 1. [https://thedesk.top](https://thedesk.top)にアクセス
 2. Downloadを押す
 
-   ![install1](https://dl.thedesk.top/media/install1.png)
+   ![install1](/media/install1.png)
 
 3. あなたの環境に合わせて選択
 
-   ![install2](https://dl.thedesk.top/media/install2.PNG)
+   ![install2](/media/install2.png)
 
 ## Windowsの場合
 
@@ -15,13 +15,17 @@
 
 ### Edge/IE
 
-実行を選べば起動します。 ![install3](https://dl.thedesk.top/media/install3.PNG)
+実行を選べば起動します。 ![install3](/media/install3.png)
 
 ### Chrome
 
-アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。 ![install4](https://dl.thedesk.top/media/install4.PNG)
+アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。 ![install4](/media/install4.png)
 
-## 他のOSの場合
+## Linuxの場合
 
 ダウンロード後、zipファイルを解凍し、中のTheDeskを開いてください。
+
+## macOSの場合
+
+dmg 64bitを選んでください。
 

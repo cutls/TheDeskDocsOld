@@ -3,9 +3,9 @@
 > ⚠️ **この機能は未完成です。**
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
-2. 上の![user2](https://dl.thedesk.top/media/user2.PNG)の中から、  
+2. 上の![user2](/media/user2.png)の中から、  
 
-   ![user9](https://dl.thedesk.top/media/user9.PNG)を選択します。  
+   ![user9](/media/user9.png)を選択します。  
 
 > \[Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)\]
 

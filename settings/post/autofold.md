@@ -6,6 +6,6 @@
   
 「行数」指定は、実際の表示される行数ではありません。`Enter`などを押して改行した数を指します。
 
-1. ![settings1](https://dl.thedesk.top/media/settings1.PNG)を選択。
-1. ![settings2](https://dl.thedesk.top/media/settings2.PNG)から __投稿設定__ を選択。
+1. ![settings1](/media/settings1.png)を選択。
+1. ![settings2](/media/settings2.png)から __投稿設定__ を選択。
 1.  __長文投稿時に警告__ の行や文字の値を変更します。 __設定__ をクリックすると他の未保存の設定を含めて全て更新・保存されます。

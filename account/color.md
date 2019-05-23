@@ -1,19 +1,19 @@
 # アカウントカラーを変更
 
 ## アカウントカラーが適用される場所
-![account9](https://dl.thedesk.top/media/account9.PNG)  
+![account9](/media/account9.png)  
 この色に設定したとします。
 ### タイムライン  
-![account11](https://dl.thedesk.top/media/account11.PNG)  
+![account11](/media/account11.png)  
 ### トゥート時
-![account12](https://dl.thedesk.top/media/account12.PNG)  
+![account12](/media/account12.png)  
 
 このように適用されます。
 
-1. ![account2](https://dl.thedesk.top/media/account2.PNG)を選択。
+1. ![account2](/media/account2.png)を選択。
 1. アカウントの  
-![account8](https://dl.thedesk.top/media/account8.PNG)の  
+![account8](/media/account8.png)の  
 __アカウントカラーを選択__ から好きな色を選びます。
 1. 変更されました。  
-![account9](https://dl.thedesk.top/media/account9.PNG)
+![account9](/media/account9.png)
 

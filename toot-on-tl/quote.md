@@ -5,9 +5,9 @@
 
 1. トゥート下部の  
 
-   ![toottl1](https://dl.thedesk.top/media/toottl1.PNG)  
+   ![toottl1](/media/toottl1.png)  
 
-   ![toottl4](https://dl.thedesk.top/media/toottl4.PNG)を押します。
+   ![toottl4](/media/toottl4.png)を押します。
 
 2. 投稿ボックスが開きます。
 

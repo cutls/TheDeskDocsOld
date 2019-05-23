@@ -2,9 +2,9 @@
 
 1. トゥート左下の  
 
-   ![toottl1](https://dl.thedesk.top/media/toottl1.PNG)  
+   ![toottl1](/media/toottl1.png)  
 
-   公開範囲表示\(例:![toottl7](https://dl.thedesk.top/media/toottl7.PNG) \)を押してください。  
+   公開範囲表示\(例:![toottl7](/media/toottl7.png) \)を押してください。  
 
    本文がコピーされます。  
 
