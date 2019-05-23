@@ -1,10 +1,10 @@
 # 画像ビューアを使いこなす
 
 画像をクリックすると、  
-![tool2](/media/tool2.png)  
+![tool2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool2.png)  
 ビューワーが表示されます。  
   
-![tool3](/media/tool3.png)  
+![tool3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool3.png)  
 左から順に  
 * DL進捗
 * 画像拡大縮小( __マウスホイールでも可能です！__ )

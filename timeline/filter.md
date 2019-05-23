@@ -5,8 +5,8 @@
 フィルターに該当したトゥートは、TheDeskでは全て非表示になります。公式のように「フィルターされました」とはなりませんのでご注意ください。  
 ただし、リプライ先など一部状況では「フィルターされました」が表示されます。
 
-1. 画面下部![toot13](/media/toot13.png)より「フィルター」を選んでください。
-2. ![timeline19](/media/timeline19.png)
+1. 画面下部![toot13](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot13.png)より「フィルター」を選んでください。
+2. ![timeline19](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline19.png)
 
 ## フィルターされている単語一覧
 

@@ -1,7 +1,7 @@
 # キーボードショートカットを使う
 
 ## 覚えておくと便利なキーボードショートカット
-全キーボードショートカットの一覧は、設定![settings1](/media/settings1.png)の下の方にあります。
+全キーボードショートカットの一覧は、設定![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)の下の方にあります。
 * `N`: トゥートボックス表示
 * `Ctrl+Enter`: トゥートする
 * `Ctrl+E`: 全ての通知を既読にする。(全ての通知については[こちら](https://docs.thedesk.top/settings/timeline/notif) )

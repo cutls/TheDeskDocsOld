@@ -4,11 +4,11 @@
 
 1. 画面下部  
 
-   ![user19](/media/user19.png)  
+   ![user19](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user19.png)  
 
    の、  
 
-   ![user20](/media/user20.png) 
+   ![user20](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user20.png) 
 
    を押してください。  
 

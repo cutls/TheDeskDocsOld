@@ -1,13 +1,13 @@
 # タイムラインを追加
 
-1. 画面下部![toot13](/media/toot13.png)より「カラム追加」を選んでください。
+1. 画面下部![toot13](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot13.png)より「カラム追加」を選んでください。
 
-   ![timeline1](/media/timeline1.png)
+   ![timeline1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline1.png)
 
 2. 「アカウントを選択」で表示させたいアカウントを選択します。
 3. 「表示するタイムライン」を選択します。
 
-   ![timeline3](/media/timeline3.png)
+   ![timeline3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline3.png)
 
 4. ローカル
 

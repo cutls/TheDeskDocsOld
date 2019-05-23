@@ -1,7 +1,7 @@
 # ユーザー情報を表示する
 
 1. 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
-2. ![user1](/media/user1.png)
+2. ![user1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user1.png)
 
 ## Note
 

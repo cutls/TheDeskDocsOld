@@ -2,10 +2,10 @@
 
 ## Spotifyアカウントとの連携
 
-1. ![settings1](/media/settings1.png)を選択。
-1. ![settings2](/media/settings2.png)から __SpotifyとNowPlayingの設定__ を選択。
+1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __SpotifyとNowPlayingの設定__ を選択。
 1. Windowsの場合、「接続」を押した後一旦アプリが閉じ、  
-![account7](/media/account7.png)  
+![account7](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account7.png)  
 が表示されます。  
 その他のOSの場合、認証キーが表示されるので入力します。
 
@@ -20,6 +20,6 @@
 と入力されます。
 
 ## アルバムワークを添付する
-1. ![settings1](/media/settings1.png)を選択。
-1. ![settings2](/media/settings2.png)から __SpotifyとNowPlayingの設定__ を選択。
+1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __SpotifyとNowPlayingの設定__ を選択。
 1.  __アルバムワークを添付する__ 値を変更します。クリックすると更新・保存されます。
