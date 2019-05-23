@@ -3,7 +3,7 @@
 1. [https://thedesk.top](https://thedesk.top)にアクセス
 2. Downloadを押す
 
-   ![install1](https://dl.thedesk.top/media/install1.PNG)
+   ![install1](https://dl.thedesk.top/media/install1.png)
 
 3. あなたの環境に合わせて選択
 
