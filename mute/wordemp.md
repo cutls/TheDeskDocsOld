@@ -4,7 +4,8 @@
 
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
-1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __ミュート・強調の設定__ を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)  
+から __ミュート・強調の設定__ を選択。
 1.   
 ![mute3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/mute3.png)  
 入力します。  
@@ -15,7 +16,8 @@ Enterを押して確定します。
 
 ## 削除する
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
-1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __ミュート・強調の設定__ を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)  
+から __ミュート・強調の設定__ を選択。
 1.   
 ![mute5](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/mute5.png)  
 ×を押します。  

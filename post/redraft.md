@@ -6,7 +6,9 @@
 
    ![toottl15](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl15.png)を押します。
 
-2. ![toottl19](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl19.png)を押します。
+2. ![toottl28](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl28.png)  
+で、  
+![toottl19](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl19.png) 
 
    1.OKを押します。
 

@@ -2,8 +2,13 @@
 
 言語を変えられます。
 * 日本語
+* 日本語(関西)
 * 英語
 * Crowdin translate system
+* български
+* Česky
+* Deutsch
+* Spanish, Argentina
 
 「Crowdin translate system」は知識のある方のみご利用ください。
 
