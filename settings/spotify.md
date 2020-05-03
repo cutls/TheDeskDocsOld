@@ -23,3 +23,11 @@
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __SpotifyとNowPlayingの設定__ を選択。
 1.  __アルバムワークを添付する__ 値を変更します。クリックすると更新・保存されます。
+
+## アルバムアートワークが無い時補完する(macOS)
+上の「アルバムアートワークを添付する」がはいのとき限定。
+
+macOSでNowPlayingしているとき、もしアルバムアートワークがない場合、Apple MusicのAPIを使用して
+アルバムアートワークを添付します。もしかしたら適当でない画像が添付されるかもしれません。また、Apple Musicにない曲は添付できません。
+
+これをはいに設定しておくと、アルバム情報が楽曲に無い場合もApple MusicのAPIで補完します。

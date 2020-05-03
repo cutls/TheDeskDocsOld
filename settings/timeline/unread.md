@@ -1,7 +1,7 @@
 # ホームと通知の未読管理
 
 ![settings10](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settins10.png)  
-ホームタイムラインや通知タイムラインのこのボタンを押すと、マーカー部分前後のタイムラインを表示します。  
+ホームタイムラインや通知タイムラインのメニュー内のこのボタンを押すと、マーカー部分前後のタイムラインを表示します。  
 最新まで読むか、カラムのアイコンをクリックするまで新しいトゥートは表示されません。  
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
