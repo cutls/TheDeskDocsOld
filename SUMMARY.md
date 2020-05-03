@@ -1,13 +1,13 @@
-* [TheDeskへようこそ](/README.md)
+* TheDeskへようこそ
 * [インストールする](/install.md)
-* [基本的な使い方](/basic/README.md)
+* 基本的な使い方
   * [cf)アカウントを追加](/account/add.md)
   * [cf)タイムラインを表示](/timeline/add.md)
   * [トゥートする](/basic/toot.md)
   * [ブースト/お気に入り登録](/basic/btfav.md)
   * [cf)フォローする](/his-or-her-prof/follow.md)
-* [投稿](/post/README.md)
-  * [投稿の基本]()
+* 投稿
+  * 投稿の基本
     * [公開範囲の設定](/post/privacy.md)
     * [画像を添付・削除](/post/img.md)
     * [絵文字を挿入](/post/emoji.md)
@@ -15,33 +15,33 @@
     * [削除して再編集](/post/redraft.md)
     * [時間指定投稿](/post/scheduled.md)
     * [アンケートを投稿](/post/poll.md)
-  * [応用]()
+  * 応用
     * [NowPlaying(Spotify)](/post/nowplaying.md)
     * [NowPlaying(macOS)](/post/native-nowplaying.md)
     * [画像に説明を追加](/post/desc.md)
     * [よく使うタグ](/post/tag.md)
     * [実況する](/post/tagstr.md)
     * [スタンプ機能](/post/stamp.md)
-  * [参考]()
+  * 参考
     * [cf\)トゥートをピン留め](/toot-on-tl/pin.md)
     * [cf\)セカンダリートゥートボタン](/settings/post/secondary.md) 
-* [タイムライン](/timeline/README.md)
-  * [編集]()
+* タイムライン
+  * 編集
     * [タイムラインを追加](/timeline/add.md)
     * [タイムラインを削除](/timeline/delete.md)
     * [タイムラインを並べ替え](/timeline/sort.md)
     * [TLのヘッダーの色を変える](/timeline/tlheader.md)
     * [タイムラインの何かがおかしいとき\(再読込\)](/timeline/reconnect.md)
-  * [読み上げ]()
+  * 読み上げ
     * [TL上のトゥートを読み上げる](/timeline/tts.md)
     * [cf\)読み上げの設定](/settings/tts.md)
-  * [リスト](/timeline/list/README.md)
+  * リスト
     * [リストのタイムラインを表示](/timeline/list/show.md)
     * [リストの新規作成](/timeline/list/add.md)
     * [リストに入っているユーザーを表示](/timeline/list/showuser.md)
     * [cf\)リストにユーザーを追加する](/user/his-or-her-prof/list.md)
     * [cf\)リストからユーザーを削除する](/user/his-or-her-prof/listremove.md)
-  * [便利機能]()
+  * 便利機能
     * [フィルター](/timeline/filter.md)
     * [メディアフィルター](/timeline/mediafilter.md)
     * [TL上の全トゥートのリンク解析](/timeline/link.md)
@@ -50,14 +50,14 @@
     * [認証していないインスタンスのタイムラインを見る](/timeline/glance.md)
     * [タイムラインから一発検索](/timeline/search.md)
     * [cf/)未読管理](/settings/timeline/unread.md)
-* [タイムライン上のトゥート](/toot-on-tl/README.md)
-  * [基本操作]()
+* タイムライン上のトゥート
+  * 基本操作
     * [返信する](/toot-on-tl/reply.md)
     * [引用する](/toot-on-tl/quote.md)
     * [トゥートをピン留め](/toot-on-tl/pin.md)
     * [ブックマークに追加](/toot-on-tl/bookmark.md)
     * [投票する](/toot-on-tl/poll.md)
-  * [便利機能]()
+  * 便利機能
     * [このトゥートのリプライ元/先を確認](/toot-on-tl/replyck.md)
     * [エアリプを確認する/このときの話題を確認する](/toot-on-tl/airreply.md)
     * [トゥートの言及元を調べる](/toot-on-tl/btck.md)
@@ -67,26 +67,26 @@
     * [トゥートを翻訳する](/toot-on-tl/translate.md)
     * [トゥートのリンクを解析](/toot-on-tl/link.md)
     * [トゥートのリンクの動画をオーバーレイ表示](/toot-on-tl/pip.md)
-  * [共有]()
+  * 共有
     * [他のアカウントから返信する](/toot-on-tl/otacctopereply.md)
     * [他のアカウントからBT/お気に入り登録する](/toot-on-tl/otacctope.md)
     * [トゥートをブラウザから開く](/toot-on-tl/openinbrowser.md)
     * [トゥートのURLをコピー](/toot-on-tl/copyurl.md)
     * [トゥートの埋め込みをコピー](/toot-on-tl/copyemb.md)
     * [トゥートの本文をコピー](/toot-on-tl/copytxt.md)
-  * [参考]()
+  * 参考
     * [cf\)トゥート時刻のスタイル](/settings/timeline/format.md)
     * [cf\)投稿の削除](/post/delete.md)
     * [cf\)削除して再編集](/post/redraft.md)
     * [cf\)#InstanceTickerを使う](/settings/timeline/ticker.md)
-* [ユーザー情報](/user/README.md)
-  * [基本操作]()
+* ユーザー情報
+  * 基本操作
     * [ユーザー情報を表示する](/user/show.md)
     * [自分のプロフィールを表示する](/user/myprof.md)
     * [ユーザーのトゥート一覧](/user/usertl.md)
     * [ユーザーのフォロー/フォロワー](/user/flw.md)
     * [1つ前のユーザーデータ](/user/back.md)
-  * [ユーザー情報のみ有効](/user/his-or-her-prof/README.md)
+  * ユーザー情報のみ有効
     * [フォローする](/user/his-or-her-prof/follow.md)
     * [ミュートする](/user/his-or-her-prof/mute.md)
     * [ブロックする](/user/his-or-her-prof/block.md)
@@ -95,21 +95,21 @@
     * [リストから削除](/user/his-or-her-prof/listremove.md)
     * [紹介する](/user/his-or-her-prof/endorse.md)
     * [cf\)ユーザー強調](/mute/useremp.md)
-  * [自分のプロフィールのみ有効](/user/myprof/README.md)
+  * 自分のプロフィールのみ有効
     * [お気に入り一覧を見る](/user/myprof/fav.md)
     * [ミュート/ブロック一覧を見る](/user/myprof/mute.md)
     * [ドメインブロックリストを見る](/user/myprof/domblock.md)
     * [プロフィールの編集](/user/myprof/profedit.md)
     * [フォローリクエストを許可する](/user/myprof/auth.md)
     * [フォロー推奨リストを表示する](/user/myprof/frc.md)
-* [アカウント](/account/README.md)
+* アカウント
   * [アカウントの追加\(Mastodon\)](/account/add.md)
   * [Misskeyアカウントの追加](/account/misskey.md)
   * [アカウントの削除](/account/remove.md)
   * [アカウントカラーを変更](/account/color.md)
   * [インスタンスの情報を見る](/account/info.md)
   * [メインアカウントを設定](/account/main.md)
-* [メニュー]
+* メニュー
   * [cf\)タイムラインを追加](/timeline/add.md)
   * [cf\)タイムラインを並べ替え](/timeline/sort.md)
   * [検索](/menu/src.md)
@@ -117,8 +117,8 @@
   * [ディレクトリ](/menu/directory.md)
   * [cf\)フィルター](/timeline/filter.md)
   * [ヘルプとログ](/menu/helplog.md)
-* [設定](/settings/README.md)
-  * [環境設定](/settings/system/README.md)
+* 設定
+  * 環境設定
     * [言語](/settings/system/lang.md)
     * [設定のエクスポート](/settings/system/export.md)
     * [設定のインポート](/settings/system/import.md)
@@ -132,12 +132,12 @@
     * [検索エンジン](/settings/system/searchengine.md)
     * [ウィンドウのフレーム](/settings/system/frame.md)
     * [バージョニングする](/settings/system/versioning.md)
-  * [テーマの設定](/settings/theme/README.md)
+  * テーマの設定
     * [テーマの作成](/settings/theme/create.md)
     * [テーマの削除](/settings/theme/delete.md)
     * [テーマのインポート](/settings/theme/import.md)
     * [テーマの選択](/settings/theme/select.md)
-  * [タイムラインの設定](/settings/timeline/README.md)
+  * タイムラインの設定
     * [時刻表記設定](/settings/timeline/format.md)
     * [独自ロケール](/settings/timeline/locale.md)
     * [非表示設定の画像\(NSFW\)を隠す](/settings/timeline/nsfw.md)
@@ -155,7 +155,7 @@
     * [画像をリモートから取得](/settings/timeline/fetchremote.md)
     * [アクションボタンとしてブックマークを表示](/settings/timeline/bookmark.md)
     * [通知音](/settings/timeline/sound.md)
-  * [投稿設定](/settings/post/README.md)
+  * 投稿設定
     * [CWの設定\(デフォルトの警告文/標準でCWを設定](/settings/post/cw.md)
     * [長文投稿時に警告](/settings/post/autofold.md)
     * [デフォルトの公開設定](/settings/post/privacy.md)
@@ -166,12 +166,12 @@
     * [セカンダリートゥートボタン](/settings/post/secondary.md)
     * [絵文字にゼロ幅スペースを使う](/settings/post/zero-width.md)
     * [添付画像の自動リサイズ](/settings/post/resize.md)
-  * [その他]()
+  * その他
     * [キーボードショートカットの設定](/settings/ksc.md)
     * [SpotifyとNowPlayingの設定(Spotify)](/settings/spotify.md)
     * [SpotifyとNowPlayingの設定SpotifyとNowPlayingの設定(NowPlaying on macOS)](/settings/nowplaying.md)
     * [読み上げの設定](/settings/tts.md)
-* [ミュート・強調](/mute/README.md)
+* ミュート・強調
   * [ユーザーの強調](/mute/useremp.md)
   * [cf\)ユーザーのミュート](/user/his-or-her-prof/mute.md)
   * [クライアントの強調](/mute/cliemp.md)
@@ -180,7 +180,7 @@
   * [ワードのミュート\(非推奨\)](/mute/wordmute.md)
   * [cf\)フィルター](/timeline/filter.md)
 * 便利な機能
-  * [便利機能]()
+  * 便利機能
     * [トゥート欄入れ替え](/tool/reverse.md)
     * [cf)NowPlayingする](/post/nowplaying.md)
     * [cf)「ナノ」モード](/timeline/nano.md)
@@ -188,7 +188,7 @@
     * [Twitterも見る](/tool/twitter.md)
     * [cf)よく使うタグ](/post/tag.md)
     * [cf)実況する](/post/tagstr.md)
-  * [トリビア]()
+  * トリビア
     * [バックアップする](/tool/backup.md)
     * [cf)フォントやそのサイズを変える](/settings/system/font.md)
     * [cf)投稿範囲をアカウントによって変える](/settings/post/privacy.md)
@@ -197,7 +197,7 @@
     * [キーボードショートカットを使う](/tool/ksc.md)
     * [cf)メインアカウントを使いこなす](/account/main.md)
     * [スクショをすぐトゥート](/tool/scs.md)
-  * [Tips]()
+  * Tips
     * [リアルタイムユーザー数](/tool/rtuser.md)
     * [Spotifyの情報を出しておく](/tool/spotify.md)
     * [時計を出しておく](/tool/clock.md)
